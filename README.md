@@ -19,9 +19,8 @@ The system will have a menu interface where users can choose various options bas
 ## Repository link:
 
 
- git colne https://github.com/aml890/the-project.git
+ git colne https://github.com/aml8999/my-first-project.git
 
- 
 ## Requirements
 C++ Compiler (e.g., Code::Blocks or Visual Studio)
 Command Prompt or Terminal to run the program
